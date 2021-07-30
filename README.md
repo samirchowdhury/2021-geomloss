@@ -14,4 +14,4 @@ Finally, running `pip install geomloss` should finish installation. Note that he
 &nbsp;
 
 
-![simple OT](geomloss.png)
+![](geomloss.png)
